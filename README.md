@@ -1,7 +1,7 @@
 # ExternalESP-CS2
 <hr>
 
-<h7 align=center> <img src='https://imgur.com/a/p89XvCp'></h7>
+<h7 align=center> <img src='https://repository-images.githubusercontent.com/687038436/e5626c15-4084-40b4-b019-d812eb66f769'></h7>
  <table align=center>
     <tr>
      <th> . </th>
