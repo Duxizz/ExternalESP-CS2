@@ -1,6 +1,7 @@
 # ExternalESP-CS2
 <hr>
-
+<h7>ExternalESP CS2</h7>
+<h7>Rewritten for FACEIT(builded)</h7>
 <h7 align=center> <img src='https://repository-images.githubusercontent.com/687038436/e5626c15-4084-40b4-b019-d812eb66f769'></h7>
  <table align=center>
     <tr>
@@ -11,7 +12,6 @@
      </tr>
   <tr>
     <td>ExternalESP CS2</td>
-<td>working on faceit</td>
 <td>10 / 02 / 2025</td>
      <td><a href='https://github.com/Duxizz/FACEIT-externalESP-CS2/raw/refs/heads/main/ExternalESP.zip'>Download</td>
  <td>  2025  </td>
